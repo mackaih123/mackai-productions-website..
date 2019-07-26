@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mackai Productions</title>
+<style>
+Body{
+         Background-color : red;
+         }
+       
+
+
+h1   {
+       background-color:red ;
+      }
+      a
+      {color:red;
+      background-color:white
+      }
+    h2{
+       color:tamato
+       }
+
+</style>
+</head>
+<body>
+<h1> Mackai Productions </h1>
+
+<a href="https://www.youtube.com/channel/UCwZ1vnbkONPFjVjKBYS8-Ow ">youtube chanel link</a>
+<br>
+<br>
+<br>
+<img src="https://yt3.ggpht.com/a/AGF-l78tdYS4J8ZZgOLMynvVxVkbtYP2P9KSvxgCpw=s900-mo-c-c0xffffffff-rj-k-no" style="width:200px;height:200px;">
+<h2>Make sure to Subscribe! </h2>
+<br>
+<br>
+<br>
+<h3><font face="verdana" color="Black"></font>
+<h3><FONT SIZE="4
+">
+Mackai Productions 2019 rewind coming soon!</h3> 
+<br>
+<br>
+<br>
+<br>
+
+<a href="https://www.instagram.com/mackaiproductions/">Instagram Link</A>
+
+<br>
+
+
+
+<button type="button" onclick="alert('Hi Im Mackai i love making short films and wee fun videos. Most off the videos on the channel are short films, dog videos, drone videos, biking, motor biking, And More!  Please like and subscibe!')">About my channel</button>
+
+<button type="button" onclick="alert('This is a link you can copy and paste this: https://www.youtube.com/channel/UCwZ1vnbkONPFjVjKBYS8-Ow?view_as=subscriber!')">Click for full 
+youtube channel link</button>
+
+
+<br>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
